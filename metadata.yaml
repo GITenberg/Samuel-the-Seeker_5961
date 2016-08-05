@@ -1,0 +1,35 @@
+_repo: Samuel-the-Seeker_5961
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sinclair, Upton
+    aliases:
+    - Fitch, Clarke
+    - Garrison, Frederick
+    - Sinclair, Upton Beall
+    birthdate: 1878
+    deathdate: 1968
+    gutenberg_agent_id: '88'
+    url: http://www.gutenberg.org/2009/agents/88
+    wikipedia: http://en.wikipedia.org/wiki/Upton_Sinclair
+description: This 1910 novel features Samuel Prescott, who leaves his small farming
+  town to make his way in the world. But that world proves different from the small
+  town he grew up in&#151;his money and friends are gone, and the new people he meets
+  are immoral. Yet rather than return home, Samuel embarks on a new adventure.
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5961'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Socialism -- Fiction'
+- !lcc 'PS'
+- !lcsh 'United States -- Fiction'
+- !lcsh 'Social problems -- Fiction'
+- !lcsh 'Young men -- Fiction'
+- GITenberg
+title: Samuel the Seeker
+url: http://www.gutenberg.org/ebooks/5961
