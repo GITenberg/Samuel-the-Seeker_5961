@@ -1,5 +1,8 @@
 _repo: Samuel-the-Seeker_5961
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sinclair, Upton
@@ -16,6 +19,8 @@ description: This 1910 novel features Samuel Prescott, who leaves his small farm
   town to make his way in the world. But that world proves different from the small
   town he grew up in&#151;his money and friends are gone, and the new people he meets
   are immoral. Yet rather than return home, Samuel embarks on a new adventure.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5961#Samuel-the-Seeker
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
